@@ -1,6 +1,6 @@
 # Define _"define"_
 
- **definiendum** the symbol, term, or phrase being defined  
+* **definiendum** the symbol, term, or phrase being defined  
 * **definiens** the symbol or group of symbols explaining the meaning of the definiendum  
 
 ## Lexical definitions

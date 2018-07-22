@@ -1,13 +1,15 @@
 ---
 title: 'Define “define"'
 author: "Mara Averick"
-date: '2018-07-22'
+date: '`r Sys.Date()`'
 output: 
   html_document:
     keep_md: TRUE
 ---
 
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 * **_definiendum_** the symbol, term, or phrase being defined  
 * **_definiens_** the symbol or group of symbols explaining the meaning of the definiendum  

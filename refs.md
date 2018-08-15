@@ -5,3 +5,4 @@
 * Bruner, Jerome. 1991. “The Narrative Construction of Reality.” Critical Inquiry 18 (1): 1–21. doi:10.1086/448619.
 * Lakoff, George. 1970. “Linguistics and Natural Logic.” Synthese 22 (1–2): 151–271. doi:10.1007/BF00413602.
 * Mill, John Stuart. 1882. A System of Logic, Ratiocinative and Inductive. Eighth. New York: Harper & Brothers.
+* Gupta, Anil, "Definitions", The Stanford Encyclopedia of Philosophy (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2015/entries/definitions/>.

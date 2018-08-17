@@ -1,7 +1,7 @@
 ---
 title: 'Define “define"'
 author: "Mara Averick"
-date: '2018-07-23'
+date: '2018-08-17'
 output: 
   html_document:
     keep_md: TRUE
@@ -23,11 +23,19 @@ output:
 
 ## Extensional vs intensional definitions
 
+### Intensional definition
+
+Gives the properties/conditions necessary (and sufficient) for something to be a referent to the term being defined.
+
+### Extensional definition
+
+A type of enumerative definition; lists all the members of the class of the term being defined.
+
 ## Non-lexical definition typology
 
 ### Stipulative
 
-### Precising
+### Précising
 
 ### Theoretical
 

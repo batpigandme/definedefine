@@ -25,6 +25,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Extensional vs intensional definitions
 
+### Intensional definition
+
+Gives the properties/conditions necessary (and sufficient) for something to be a referent to the term being defined.
+
+### Extensional definition
+
+A type of enumerative definition; lists all the members of the class of the term being defined.
+
 ## Non-lexical definition typology
 
 ### Stipulative
